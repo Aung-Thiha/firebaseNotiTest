@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "476792625101",
+    "firebase_url": "https://notitest-49f14.firebaseio.com",
+    "project_id": "notitest-49f14",
+    "storage_bucket": "notitest-49f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476792625101:android:6c9336c6d8867210",
+        "android_client_info": {
+          "package_name": "com.selftest.thiha.myfirenotitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476792625101-9g2lfm2j02nfdh0bp0vr4mrbtkftaaqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASmhbhSFJRCxqfiTjAhHmqmU0RPVtF5mM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
